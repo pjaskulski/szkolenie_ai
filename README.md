@@ -45,8 +45,10 @@ Liniki do aplikacji, filmów itp.:
 - Julius AI: https://julius.ai/
 
 ### OCR/HTR
-
-- eSCriptorium: https://htr.lab.dariah.pl/
+- Transkribus
+- AI models for reading Polish cursive and printed texts: https://readcoop.eu/ai-models-for-reading-polish-cursive-and-printed-texts/
+- eScriptorium: https://htr.lab.dariah.pl/
+- polski tutorial do eScriptorium: https://github.com/pjaskulski/escriptorium_tutorial/blob/master/escriptorium_tutorial.md
 - ArkIndex: https://teklia.com/our-solutions/arkindex/
 - Demo ArkIndex: https://demo.arkindex.org/ 
 
