@@ -43,3 +43,8 @@ Liniki do aplikacji, filmów itp.:
 ### Narzędzia do analizy danych
 
 - Julius AI: https://julius.ai/
+
+### Audio
+
+- Transkrypcja audio -> text za pomocą modelu Whisper: https://huggingface.co/spaces/Xenova/whisper-web
+  
