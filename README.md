@@ -44,6 +44,11 @@ Liniki do aplikacji, filmów itp.:
 
 - Julius AI: https://julius.ai/
 
+### OCR/HTR
+
+- ArkIndex: https://teklia.com/our-solutions/arkindex/
+- Demo ArkIndex: https://demo.arkindex.org/ 
+
 ### Audio
 
 - Transkrypcja audio -> text za pomocą modelu Whisper: https://huggingface.co/spaces/Xenova/whisper-web
