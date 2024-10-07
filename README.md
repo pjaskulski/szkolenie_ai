@@ -23,6 +23,7 @@ Liniki do aplikacji, filmów itp.:
 - Semantic Scholar: https://www.semanticscholar.org/
 - Consensus: https://consensus.app
 - Research Rabbit: https://www.researchrabbit.ai/
+- SciSpace: https://typeset.io/
 
 ### Wykrywanie AI
 
