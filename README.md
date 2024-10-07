@@ -1,2 +1,45 @@
-# szkolenie_ai
-Materiały związane ze szkoleniem z AI dla osób badających historię
+# Szkolenie AI 
+Materiały związane ze szkoleniem z AI dla osób badających historię (09.10.2024)
+
+Liniki do aplikacji, filmów itp.:
+
+### Chat-y
+
+- ChatGPT: https://chatgpt.com/
+- Gemini: https://gemini.google.com/app
+- Claude: https://claude.ai/new
+- Bielik: https://bielik.ai/
+- perplexity: https://www.perplexity.ai/
+- Serwer AI IHPAN: https://ai.ihpan.edu.pl
+- Mistral: https://chat.mistral.ai/
+
+### Tworzenie i przetwarzanie treści:
+
+- GPT-4o Canvas: https://openai.com/index/introducing-canvas/
+- Google NoteBookML: https://notebooklm.google/
+
+### Wyszukiwanie publikacji
+
+- Semantic Scholar: https://www.semanticscholar.org/
+
+### Wykrywanie AI
+
+- Jednolity System Antyplagiatowy: https://jsa-cp.opi.org.pl/baza-wiedzy/uzycie-sztucznej-inteligencji/
+- Plagiat.pl: https://plagiat.pl/wykrywanie-uzycia-ai/
+- Writer: https://writer.com/ai-content-detector/
+- Smodin: https://smodin.io/pl/detektor-tresci-ai
+- Trinka: https://www.trinka.ai/ai-content-detector
+
+### Gramatyka
+
+- DeepL Write: https://www.deepl.com/pl/write
+- QuillBot: https://quillbot.com/ai-writing-tools
+
+### Wizualizacje
+
+- Napkin AI: https://www.napkin.ai/
+- Mermaid Chart (GPTs): https://chatgpt.com/g/g-1IRFKwq4G-mermaid-chart-diagrams-and-charts
+
+### Narzędzia do analizy danych
+
+- Julius AI: https://julius.ai/
