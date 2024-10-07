@@ -46,6 +46,7 @@ Liniki do aplikacji, filmów itp.:
 
 ### OCR/HTR
 
+- eSCriptorium: https://htr.lab.dariah.pl/
 - ArkIndex: https://teklia.com/our-solutions/arkindex/
 - Demo ArkIndex: https://demo.arkindex.org/ 
 
