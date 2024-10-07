@@ -47,4 +47,5 @@ Liniki do aplikacji, filmów itp.:
 ### Audio
 
 - Transkrypcja audio -> text za pomocą modelu Whisper: https://huggingface.co/spaces/Xenova/whisper-web
+- Nagrywanie wystąpień głosem AI: https://elevenlabs.io/
   
