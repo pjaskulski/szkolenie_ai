@@ -21,6 +21,8 @@ Liniki do aplikacji, filmów itp.:
 ### Wyszukiwanie publikacji
 
 - Semantic Scholar: https://www.semanticscholar.org/
+- Consensus: https://consensus.app
+- Research Rabbit: https://www.researchrabbit.ai/
 
 ### Wykrywanie AI
 
