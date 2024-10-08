@@ -10,7 +10,7 @@ Liniki do aplikacji, filmów itp.:
 - Claude: https://claude.ai/new
 - Bielik: https://bielik.ai/
 - perplexity.ai: https://www.perplexity.ai/
-- Perplexica (system open-source działający jak perplexity) https://github.com/ItzCrazyKns/Perplexica
+- Perplexica (system open-source działający jak perplexity): https://github.com/ItzCrazyKns/Perplexica
 - Serwer AI IHPAN: https://ai.ihpan.edu.pl
 - Mistral: https://chat.mistral.ai/
 
