@@ -9,7 +9,8 @@ Liniki do aplikacji, filmów itp.:
 - Gemini: https://gemini.google.com/app
 - Claude: https://claude.ai/new
 - Bielik: https://bielik.ai/
-- perplexity: https://www.perplexity.ai/
+- perplexity.ai: https://www.perplexity.ai/
+- Perplexica (system open-source działający jak perplexity) https://github.com/ItzCrazyKns/Perplexica
 - Serwer AI IHPAN: https://ai.ihpan.edu.pl
 - Mistral: https://chat.mistral.ai/
 
