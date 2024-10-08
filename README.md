@@ -18,6 +18,7 @@ Liniki do aplikacji, filmów itp.:
 
 - GPT-4o Canvas: https://openai.com/index/introducing-canvas/
 - Google NoteBookML: https://notebooklm.google/
+- Jenni.ai: https://jenni.ai/
 
 ### Wyszukiwanie publikacji
 
