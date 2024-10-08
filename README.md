@@ -25,6 +25,7 @@ Liniki do aplikacji, filmów itp.:
 - Consensus: https://consensus.app
 - Research Rabbit: https://www.researchrabbit.ai/
 - SciSpace: https://typeset.io/
+- Scopus AI: https://www.elsevier.com/products/scopus/scopus-ai
 
 ### Wykrywanie AI
 
