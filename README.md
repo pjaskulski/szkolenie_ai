@@ -71,4 +71,6 @@ Liniki do aplikacji, filmów itp.:
 
 - LM Studio: https://lmstudio.ai/
 - GPT4All: https://www.nomic.ai/gpt4all
+- Jan AI: https://jan.ai/
+
    
