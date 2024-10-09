@@ -62,4 +62,13 @@ Liniki do aplikacji, filmów itp.:
 
 - Transkrypcja audio -> text za pomocą modelu Whisper: https://huggingface.co/spaces/Xenova/whisper-web
 - Nagrywanie wystąpień głosem AI: https://elevenlabs.io/
-  
+
+### Filmy
+
+- Fine-tuning modeli LLM: fakty i mity: https://www.youtube.com/watch?v=Kf55mex40-o
+
+### Lokalne modele - oprogramowanie do uruchamiania
+
+- LM Studio: https://lmstudio.ai/
+- GPT4All: https://www.nomic.ai/gpt4all
+   
