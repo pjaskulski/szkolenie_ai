@@ -57,7 +57,8 @@ Liniki do aplikacji, filmów itp.:
 - eScriptorium: https://htr.lab.dariah.pl/
 - polski tutorial do eScriptorium: https://github.com/pjaskulski/escriptorium_tutorial/blob/master/escriptorium_tutorial.md
 - ArkIndex: https://teklia.com/our-solutions/arkindex/
-- Demo ArkIndex: https://demo.arkindex.org/ 
+- Demo ArkIndex: https://demo.arkindex.org/
+- Pero OcR: https://pero-ocr.fit.vutbr.cz/index
 
 ### Audio
 
