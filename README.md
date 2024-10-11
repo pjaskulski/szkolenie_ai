@@ -1,5 +1,6 @@
 # Szkolenie AI 
-Materiały związane ze szkoleniem z AI dla osób badających historię (09.10.2024)
+Materiały związane ze szkoleniem z AI dla osób badających historię 
+(09.10.2024, Zakład Atlasu Historycznego Instytut Historii im. Tadeusza Manteuffla PAN)
 
 Liniki do aplikacji, filmów itp.:
 
