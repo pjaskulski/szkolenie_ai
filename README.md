@@ -28,6 +28,7 @@ Liniki do aplikacji, filmów itp.:
 - Research Rabbit: https://www.researchrabbit.ai/
 - SciSpace: https://typeset.io/
 - Scopus AI: https://www.elsevier.com/products/scopus/scopus-ai
+- Scholar GPT: https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt
 
 ### Wykrywanie AI
 
