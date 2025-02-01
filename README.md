@@ -47,6 +47,7 @@ Liniki do aplikacji, filmów itp.:
 
 - Napkin AI: https://www.napkin.ai/
 - Mermaid Chart (GPTs): https://chatgpt.com/g/g-1IRFKwq4G-mermaid-chart-diagrams-and-charts
+- Diagramy wspomagane AI: https://www.lucidchart.com/pages/pl
 
 ### Narzędzia do analizy danych
 
