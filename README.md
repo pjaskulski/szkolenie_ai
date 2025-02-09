@@ -33,6 +33,7 @@ Liniki do aplikacji, filmów itp.:
 - SciSpace: https://typeset.io/
 - Scopus AI: https://www.elsevier.com/products/scopus/scopus-ai
 - Scholar GPT: https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt
+- scite_ https://scite.ai/ 
 
 ### Wykrywanie AI
 
