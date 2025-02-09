@@ -23,6 +23,7 @@ Liniki do aplikacji, filmów itp.:
 - Paperpal https://paperpal.com/ (AI academic writing assistant: Web, Word, Overleaf)
 - Samwell.ai https://www.samwell.ai/ (AI-Powered Writing Assistant)
 - Yomu.ai https://yomu.ai (Essay AI, Paper AI, Academic Writing AI Assistant)
+- Sourcely https://www.sourcely.net/ (Paste your essay or paper to find, summarize, and add credible academic sources)
 
 ### Wyszukiwanie publikacji
 
