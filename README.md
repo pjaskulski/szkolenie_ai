@@ -19,7 +19,10 @@ Liniki do aplikacji, filmów itp.:
 
 - GPT-4o Canvas: https://openai.com/index/introducing-canvas/
 - Google NoteBookML: https://notebooklm.google/
-- Jenni.ai: https://jenni.ai/
+- Jenni.ai: https://jenni.ai/ (AI-powered workspace to help you read, write, and organize research with ease)
+- Perperal https://paperpal.com/ (AI academic writing assistant: Web, Word, Overleaf)
+- Samwell.ai https://www.samwell.ai/ (AI-Powered Writing Assistant)
+- Yomu.ai https://yomu.ai (Essay AI, Paper AI, Academic Writing AI Assistant)
 
 ### Wyszukiwanie publikacji
 
