@@ -42,6 +42,7 @@ Liniki do aplikacji, filmów itp.:
 - Writer: https://writer.com/ai-content-detector/
 - Smodin: https://smodin.io/pl/detektor-tresci-ai
 - Trinka: https://www.trinka.ai/ai-content-detector
+- GPTZero: https://gptzero.me/ (chyba najlepszy jak dotąd)
 
 ### Gramatyka
 
